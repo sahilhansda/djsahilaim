@@ -18,7 +18,6 @@ const Wrapper = styled.div`
 `
 
 const Image = styled.img`
-  width: 100%;
   height: 8rem;
   padding-left: 20px;
 `
