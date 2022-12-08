@@ -1,7 +1,7 @@
 {
   "name": "djsahilaim-app",
   "version": "0.1.0",
-  "homepage": "https://djsahilaim.vercel.app/",
+  "homepage": "https://www.djsahilaim.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
